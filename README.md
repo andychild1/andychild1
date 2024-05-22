@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andychild1
 - 👀 I’m interested in ... developing web apps and server interfaces
-- 🌱 I’m currently learning backend developement...
+- 🌱 I’m currently learning computer science...
 - 💞️ I’m looking to collaborate on ... awesome wep apps projects
 - 📫 How to reach me ... toxand@gmail.com
 

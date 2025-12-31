@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andychild1
-- 👀 I’m interested in ... developing web apps and server interfaces
-- 🌱 I’m currently learning computer science...
-- 💞️ I’m looking to collaborate on ... awesome wep apps projects
+- 👀 I’m interested in ... developing embedded systems 
+- 🌱 I’m currently learning ESP-IDF framework 
+- 💞️ I’m looking to collaborate on ... awesome projects
 - 📫 How to reach me ... toxand@gmail.com
 
 <!---
